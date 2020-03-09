@@ -1,19 +1,19 @@
 # Twitter-summarizer-rest-service
   
 ## User Guide
-  1. Run the restWeb.py in AWS EC2
+  * Run the **restWeb.py** in AWS EC2
   
   ![](https://github.com/BUEC500C1/twitter-summarizer-rest-service-AIRICLEE/blob/master/materials/runPy.png)
   
-  2. Enter the URL: ec2-3-15-11-151.us-east-2.compute.amazonaws.com:5000
+  * Enter the URL: **ec2-3-15-11-151.us-east-2.compute.amazonaws.com:5000**
   
-  3. Then you can get web page, and enter what you want to search
+  * Then you can get web page, and enter what you want to search
   
   ![](https://github.com/BUEC500C1/twitter-summarizer-rest-service-AIRICLEE/blob/master/materials/webPage.png)
   
-  4. Get the Zip file of videos
+  * Get the Zip file of videos
   
-  5. unzip it and you can get the videos of Twitter summarizer
+  * unzip it and you can get the videos of Twitter summarizer
   
   ![](https://github.com/BUEC500C1/twitter-summarizer-rest-service-AIRICLEE/blob/master/materials/videoResult.png)
   
